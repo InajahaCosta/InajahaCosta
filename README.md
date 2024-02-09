@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https ://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inajahacosta" alt="inajahacosta" /> </p>
 
-- 🌱 Atualmente estou aprendendo **Typescript**
+- 🌱 Atualmente estou estudando **Python/FastAPI**
 
 - 📫 Como entrar em contato comigo **inajaha.costa@ges.inatel.br**
 
