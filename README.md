@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Inajaha Costa</h1>
-<h3 align="center">Aventurando-me no mundo do desenvolvimento Backend</h3>
+<h3 align="center">Aventurando-me no mundo do desenvolvimento software</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=inajahacosta&label=Profile%20views&color=0e75b6&style=flat" alt="inajahacosta" /> </p>
 
